@@ -1,0 +1,8 @@
+.faq__title {
+  font-size: 2rem;
+  color: var(--very-dark-desaturated-blue);
+  grid-column: 1 span 3;
+  grid-row: 2;
+  margin-bottom: .75rem;
+  text-align: center;
+}

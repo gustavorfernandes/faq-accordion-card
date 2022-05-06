@@ -1,0 +1,21 @@
+@import url(./variables.css);
+@import url(./reset.css);
+
+body {
+  align-items: center;
+  background-image: linear-gradient(hsl(273, 75%, 66%), hsl(250, 73%, 65%));
+  display: flex;
+  font-family: var(--kumbh-sans);
+  height: 100vh;
+  justify-content: center;
+  width: 100vw;
+}
+
+.content {
+  background:var(--light-grayish-blue);
+  border-radius: 25px;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 35px 60px, rgba(0, 0, 0, 0.22) 0px 15px 35px;
+  height: 65%;
+  margin-top: 2rem;
+  width: 85%;
+}

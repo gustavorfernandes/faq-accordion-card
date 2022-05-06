@@ -1,0 +1,10 @@
+.faq__image {
+  background-image: url(../../images/illustration-woman-online-mobile.svg);
+  background-repeat: no-repeat;
+  width: 15rem;
+  height: 15rem;
+  grid-column: 1 span 3;
+  grid-row: 1;
+  background-position: top;
+  margin-top: -7rem;
+}

@@ -1,0 +1,13 @@
+@import url(./faq-image.css);
+@import url(./faq-shadow.css);
+@import url(./faq-title.css);
+
+.faq {
+  align-items: center;
+  background-image: url(../../images/bg-pattern-mobile.svg);
+  background-repeat: no-repeat;
+  background-position: top;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
