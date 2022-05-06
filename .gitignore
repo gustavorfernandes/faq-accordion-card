@@ -1,0 +1,7 @@
+*md
+*.sketch
+*.xd
+*.fig
+.DS_Store
+.prettierignore
+/design
