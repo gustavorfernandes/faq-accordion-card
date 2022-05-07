@@ -1,6 +1,5 @@
 .faq__itens {
   border-bottom: solid .001px hsl(240, 6%, 85%);
-
 }
 
 .faq__item {
@@ -14,8 +13,9 @@
 .faq__question {
   color: var(--very-dark-grayish-blue);
   cursor: pointer;
-  font-size: .85rem;
-  font-weight: var(--regular-weight);  
+  font-size: .8rem;
+  font-weight: var(--regular-weight);
+  
 }
 
 .faq__question:hover {
@@ -23,23 +23,23 @@
 }
 
 .faq__icon {
-  width: 10px;
   height: 8px;
+  width: 10px;
 }
 
 .faq__answer {
   color: var(--dark-grayish-blue);
   display: none;
-  font-size: .78rem;
+  font-size: .725rem;
   font-weight: var(--regular-weight);
-  padding: .5rem 1rem 0 0;  
   line-height: 1.5;
+  padding: .75rem 1.5rem 0 0;
 }
 
 .active {
   color: var(--very-dark-desaturated-blue);
+  font-size: .8rem;
   font-weight: var(--bold-weight);
-  font-size: .875rem;
 }
 
 #open {

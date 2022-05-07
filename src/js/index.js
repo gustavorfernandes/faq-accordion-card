@@ -1,0 +1,1 @@
+const questionsList = document.querySelectorAll('.faq__question'); console.log(questionsList);
