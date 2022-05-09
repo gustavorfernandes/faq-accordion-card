@@ -14,8 +14,7 @@
   color: var(--very-dark-grayish-blue);
   cursor: pointer;
   font-size: .8rem;
-  font-weight: var(--regular-weight);
-  
+  font-weight: var(--regular-weight);  
 }
 
 .faq__question:hover {
@@ -23,8 +22,10 @@
 }
 
 .faq__icon {
+  cursor: pointer;
   height: 8px;
   width: 10px;
+  border: none;
 }
 
 .faq__answer {
@@ -44,4 +45,8 @@
 
 #open {
   display: flex;
+}
+
+.arrow-up {
+  transform: rotate(180deg);
 }

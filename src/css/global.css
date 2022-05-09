@@ -15,7 +15,7 @@ body {
   background:var(--light-grayish-blue);
   border-radius: 25px;
   box-shadow: rgba(0, 0, 0, 0.3) 0px 35px 60px, rgba(0, 0, 0, 0.22) 0px 15px 35px;
-  height: 65%;
   margin-top: 2rem;
   width: 85%;
+  padding-bottom: 2rem;
 }
