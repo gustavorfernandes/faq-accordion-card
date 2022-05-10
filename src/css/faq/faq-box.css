@@ -1,0 +1,13 @@
+.faq__box {
+  align-self: center;
+  background-image: url(../../images/illustration-box-desktop.svg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  display: none;
+  grid-row: 2;
+  height: 10rem;
+  margin-left: -5rem;
+  margin-top: 5rem;
+  position: absolute;
+  width: 10rem;
+}

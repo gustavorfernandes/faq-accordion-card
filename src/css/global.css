@@ -16,6 +16,7 @@ body {
   border-radius: 25px;
   box-shadow: rgba(0, 0, 0, 0.3) 0px 35px 60px, rgba(0, 0, 0, 0.22) 0px 15px 35px;
   margin-top: 2rem;
-  width: 85%;
+  max-width: 318.75px;
   padding-bottom: 2rem;
+  width: 85%;
 }
